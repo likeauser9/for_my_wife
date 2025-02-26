@@ -1,5 +1,5 @@
 const textElement = document.getElementById("text");
-const text = "Женя, я тебя люблю❤";
+const text = "Женя, я тебя люблю";
 let index = 0;
 
 function typeWriter() {
